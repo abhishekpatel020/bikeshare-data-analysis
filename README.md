@@ -5,7 +5,7 @@ A bicycle-sharing system (bikeshare system) scheme, is a shared transport servic
 
 ![Bikeshare's Station Image](https://static01.nyt.com/images/2014/03/26/nyregion/26CITIBIKEweb2/26CITIBIKEweb2-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 
-In this project, analysis has been performed on bikeshare data of three cities chicago, new york city, and washington in Python. Which computes descriptive statistics that answers some interesting questions like what time of the day when most bikes are rented out? Which station is the most common from where customers/users rents out bikes etc. The output of the code is interactive i.e user will be prompt to enter the city for which they would like to see statistics as well as they'll have the option to filter the data based on months and day of week. Lastly user will be prompt if they would like to see raw data for the choosen city.
+In this project, analysis has been performed on bikeshare data of three cities chicago, new york city, and washington in Python. Python program has been written which computes descriptive statistics that answers some interesting questions like what time of the day when most bikes are rented out? Which station is the most common from where customers/users rents out bikes etc. The output of the code is interactive i.e user will be asked to enter the city for which they would like to see statistics as well as they'll have the option to filter the data based on months and day of week. Lastly user will be asked if they would like to see raw data for the choosen city.
 
 ### Questions answered:
 * Popular times of travel:
